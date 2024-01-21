@@ -73,7 +73,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "Clients appreciate the innovative solutions, intuitive interfaces, and consistent quality I bring to every project."
+      "Clients appreciate the innovative solutions, intuitive interfaces, and consistent quality I bring to every project"
   },
   {
     quote:
