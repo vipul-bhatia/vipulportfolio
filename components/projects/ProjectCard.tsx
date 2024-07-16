@@ -32,12 +32,7 @@ function ProjectCard({ project }) {
           <div className="space-x-2">
             {project.link && (
               <a href={project.link} target="_blank" rel="noreferrer">
-                <Image
-                  src={`static/icons/external-link.svg`}
-                  width={16}
-                  height={16}
-                  alt="Link Icon"
-                />
+
               </a>
             )}
             {project.github && (

@@ -83,7 +83,7 @@ export const footer: Footer = {
           icon: `static/icons/linkedin-f.svg`,
           leavesWebsite: true
         },
-        
+
         {
           name: "Email",
           link: "vipul0592bhatia@gmail.com",
